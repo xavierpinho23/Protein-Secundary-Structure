@@ -1,4 +1,4 @@
-# Protein-Secundary-Structure
+# Protein-Secundary-Structure-Prediction
 Predict secondary structure, Nussinov algorithm
 
 In this project with pretend to implement the Nussinov algorithm to predict the secundary structure of different proteins using
